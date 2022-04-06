@@ -1,0 +1,53 @@
+div{ 
+    margin-top: 275px;
+    margin-left: 525px;
+}
+.box {
+    width: 300px;
+    height: 300px;
+    border: 10px solid rgb(71, 156, 210);
+    display: inline-block;
+    position: relative;
+    text-align: center;
+}
+
+.round {
+    height: 50px;
+    width: 50px;
+    background-color: rgb(106, 70, 173);
+    border-radius: 50px;
+    border: 4px solid rgb(14, 28, 224);
+    text-align: center;
+    font-size: 40px;
+    color: azure;
+}
+
+.box-1 {
+    background-color: rgb(122, 216, 233);
+    position: absolute;
+}
+
+.round-1 {
+    position: absolute;
+    left: -15px;
+    top: -15px;
+}
+
+.round-2 {
+    position: absolute;
+    left: 300px;
+    top: -15px;
+}
+
+.round-3 {
+    position: absolute;
+    left: -15px;
+    top:300px;
+}
+
+.round-4 {
+    position: absolute;
+    left: 300px;
+    top: 300px;
+
+}
